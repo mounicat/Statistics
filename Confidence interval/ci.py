@@ -1,4 +1,4 @@
-#calculating confidence interval when sample standard deviation is known
+#calculating confidence interval when population standard deviation is known
 
 import scipy.stats as stats
 import numpy
